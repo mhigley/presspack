@@ -1,4 +1,4 @@
-# Presspack
+# FedNetwork
 
 > Make Wordpress theme development great again.
 
@@ -22,7 +22,7 @@
 
 ## Getting Started
 ```bash
-git clone git@github.com:jaredpalmer/presspack.git
+git clone git@github.com:jaredpalmer/fednetwork.git
 yarn install
 composer install # if you want plugins ( not required )
 docker-compose up 
@@ -116,5 +116,5 @@ new BrowserSyncPlugin({
         └── camelCase.js         # Helper function for Router, DO NOT TOUCH
 ```
 
-#### Author
+#### Original Author Credit
 - Jared Palmer [@jaredpalmer](https://twitter.com/jaredpalmer)

@@ -1,5 +1,5 @@
 {
-  "name": "palmerhq/presspack",
+  "name": "mhigley/fednetwork",
   "description": "Minimalist wordpress theme",
   "repositories": [
     {
@@ -8,9 +8,10 @@
     }
   ],
   "require": {
-    "wpackagist-plugin/advanced-custom-fields": "4.4.11",
-    "wpackagist-plugin/members": "1.1.3",
-    "wpackagist-plugin/acf-to-rest-api": "2.2.1",
+    "wpackagist-plugin/members": "2.1.0",
+    "wpackagist-plugin/acf-to-rest-api": "3.1.0",
+    "wpackagist-plugin/wp-super-cache":"1.6.4",
+    "wpackagist-plugin/customizer-remove-all-parts": "1.0.4",
     "roots/soil": "3.7.1"
   }
 }
