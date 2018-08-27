@@ -1,4 +1,4 @@
-# FedNetwork
+# FedNetwork PressPack
 
 > Make Wordpress theme development great again.
 
