@@ -22,7 +22,7 @@
 
 ## Getting Started
 ```bash
-git clone git@github.com:jaredpalmer/fednetwork.git
+git clone git@github.com:mhigley/presspack.git
 yarn install
 composer install # if you want plugins ( not required )
 docker-compose up 
